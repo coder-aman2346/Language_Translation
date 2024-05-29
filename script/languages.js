@@ -366,6 +366,6 @@ const languages = [
     native: "తెలుగు",
     code: "te",
   },
-
+  
   
 ];
